@@ -10,6 +10,6 @@
 
 * Download this repository
     * Code > Download .zip
-* Go to the folder ***"JAR IN HERE"***
-* Place the file ***"qswap-fabric-1.16-1.0.0.jar"*** into your Minecraft fabric **Mods** folder
+* Go to the folder `JAR IN HERE`
+* Place the file `"qswap-fabric-1.16-1.0.0.jar"` into your Minecraft fabric `Mods` folder
 * Restart Minecraft and it's good to go!
